@@ -1,4 +1,5 @@
-# Covid19Test
+#Discontinued \
+#Undecipherable data \
 Trying to build an app to test for covid 19
 The dataset has been taken from the mexican govt. The source is :
 https://www.gob.mx/salud/documentos/datos-abiertos-152127
